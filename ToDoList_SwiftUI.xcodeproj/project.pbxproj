@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		111B9B222A9D345E00E3D46A /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 111B9B212A9D345E00E3D46A /* HeaderView.swift */; };
+		111B9B242A9E871200E3D46A /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 111B9B232A9E871200E3D46A /* TLButton.swift */; };
 		11AF54AC2A7A7A7A00462E11 /* ToDoList_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11AF54AB2A7A7A7A00462E11 /* ToDoList_SwiftUIApp.swift */; };
 		11AF54AE2A7A7A7A00462E11 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11AF54AD2A7A7A7A00462E11 /* MainView.swift */; };
 		11AF54B02A7A7A7B00462E11 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11AF54AF2A7A7A7B00462E11 /* Assets.xcassets */; };
@@ -35,6 +36,7 @@
 
 /* Begin PBXFileReference section */
 		111B9B212A9D345E00E3D46A /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		111B9B232A9E871200E3D46A /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
 		11AF54A82A7A7A7A00462E11 /* ToDoList_SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToDoList_SwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		11AF54AB2A7A7A7A00462E11 /* ToDoList_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoList_SwiftUIApp.swift; sourceTree = "<group>"; };
 		11AF54AD2A7A7A7A00462E11 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 				11AF54D42A7B007400462E11 /* RegisterView.swift */,
 				11AF54D62A7B00DE00462E11 /* ToDoListItemView.swift */,
 				111B9B212A9D345E00E3D46A /* HeaderView.swift */,
+				111B9B232A9E871200E3D46A /* TLButton.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 				11AF54DD2A7B023000462E11 /* MainViewViewModel.swift in Sources */,
 				11AF54CD2A7B000D00462E11 /* ProfileView.swift in Sources */,
 				11AF54D52A7B007400462E11 /* RegisterView.swift in Sources */,
+				111B9B242A9E871200E3D46A /* TLButton.swift in Sources */,
 				11AF54DF2A7B024200462E11 /* ProfileViewViewModel.swift in Sources */,
 				11AF54AC2A7A7A7A00462E11 /* ToDoList_SwiftUIApp.swift in Sources */,
 				11AF54D92A7B01B800462E11 /* User.swift in Sources */,
